@@ -31,8 +31,8 @@ Organizasyon genelinde benimsediğimiz temel teknoloji standartları:
 
 *   [x] Çekirdek yapay zeka sızma testi asistanının (HEXAI) canlıya alınması
 *   [x] Güvenli veritabanı altyapısı ve otonom tarama entegrasyonları
-*   [ ] Ekosistem altındaki araçların modüler bir çatı altında birleştirilmesi
-*   [ ] Gelişmiş tehdit istihbaratı ve otomasyon modüllerinin geliştirilmesi
+*   [x] Ekosistem altındaki araçların modüler bir çatı altında birleştirilmesi
+*   [x] Gelişmiş tehdit istihbaratı ve otomasyon modüllerinin geliştirilmesi
 
 ---
 
